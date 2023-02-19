@@ -56,5 +56,21 @@ https://github.com/nicolefabian/Truck-Rental-Management-System.git
 #### Update Customer 
 <img width="760" height="500" src="https://user-images.githubusercontent.com/102332600/219922040-47e7f272-9dd6-4ab1-aa5a-d494f42fb219.png">
 
+## Rental Management
+#### Rent a Truck
+![image](https://user-images.githubusercontent.com/102332600/219931410-a7a44476-c259-4649-82cf-fdc28ca3768a.png)
+
+#### Return Truck
+![image](https://user-images.githubusercontent.com/102332600/219931433-70f200eb-3d64-47ed-93e2-5a262efcdb58.png)
+
+#### Show Rented Trucks By User
+![image](https://user-images.githubusercontent.com/102332600/219931445-a546db2d-479c-47cf-973d-ec6a631d2360.png)
+
+#### Show Rented Trucks By Date
+![image](https://user-images.githubusercontent.com/102332600/219931488-9b4b4af0-8960-4b7c-be74-22674276517f.png)
+
+
+
+
 
 
