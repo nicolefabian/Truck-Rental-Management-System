@@ -56,5 +56,9 @@ https://github.com/nicolefabian/Truck-Rental-Management-System.git
 #### Update Customer 
 <img width="760" height="500" src="https://user-images.githubusercontent.com/102332600/219922040-47e7f272-9dd6-4ab1-aa5a-d494f42fb219.png">
 
+## Rental Management
+#### Rent a Truck
+![image](https://user-images.githubusercontent.com/102332600/219930684-6bc4f156-d187-4820-9232-697ba741ba73.png)
+
 
 
