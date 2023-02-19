@@ -22,7 +22,7 @@ https://github.com/nicolefabian/Truck-Rental-Management-System.git
 ![image](https://user-images.githubusercontent.com/102332600/219917689-acf2d933-7e05-4dfd-b0a2-a312dd91ea1f.png)
 
 ## Login page
-<img width="660" height="400" src="https://user-images.githubusercontent.com/102332600/219915112-cfc5961d-a91a-443a-8917-d42b2049832c.png">
+<img width="690" height="400" src="https://user-images.githubusercontent.com/102332600/219915112-cfc5961d-a91a-443a-8917-d42b2049832c.png">
 
 ## Admin Dashboard
 <img width="760" height="500" src="https://user-images.githubusercontent.com/102332600/219916380-21bd6478-53d7-4990-abb4-3e7596d0c670.png">
