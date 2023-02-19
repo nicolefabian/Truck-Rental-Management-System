@@ -23,7 +23,7 @@ namespace TruckManagementProject.Models.DB
             get { return registrationExpiry; }
             set
             {
-                if (value <= DateTime.Today)
+                if (value >= DateTime.Today)
                 {
                     throw new Exception("Please enter correct registration expiry date");
                 }
