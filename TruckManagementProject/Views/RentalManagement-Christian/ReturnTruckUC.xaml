@@ -29,7 +29,7 @@
 
         </StackPanel>
         <StackPanel Grid.Column="0" Grid.Row="2" >
-            <Label  Margin="5" HorizontalAlignment="Right" Content="Truck Regostration:" FontWeight="Bold" Foreground="White"   FontSize="15" VerticalAlignment="Center"/>
+            <Label  Margin="5" HorizontalAlignment="Right" Content="Truck Registration:" FontWeight="Bold" Foreground="White"   FontSize="15" VerticalAlignment="Center"/>
             <Label Margin="5" HorizontalAlignment="Right"  FontWeight="Bold" Foreground="White"   FontSize="15" VerticalAlignment="Center" Content="Return Date:"></Label>
         </StackPanel>
 
