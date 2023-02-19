@@ -21,7 +21,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="20"/>
         </Grid.RowDefinitions>
-        <Label VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" Grid.Column="1" FontSize="25" Foreground="White" FontWeight="Bold" Content="Show Rented Trucks by Date"></Label>
+        <Label VerticalAlignment="Center" HorizontalAlignment="Center" Grid.ColumnSpan="2" Grid.Column="1" FontSize="25" Foreground="White" FontWeight="Bold" Content="Show Rented Trucks by Customer"></Label>
         <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="5" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="1,1,20,1">
             <Label  Foreground="White" Content="Customer License:" FontSize="20" Margin="1,1,20,1"/>
             <ComboBox  Text="--Select a Customer Id--" Name="customerLicenseComboBox" FontSize="20" Width="200" Margin="1,1,40,1"/>
