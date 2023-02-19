@@ -6,15 +6,10 @@ A .NET 5.0 responsive desktop application created with WPF, XAML, C#, Entity Fra
 
 Login Validation was also implemented to access specific functionalities reserved only for Administrator use.
 
-Packages installed using Tools> Nuget Package Manager > Manage Nuget Packages for Solution
+Packages installed:
 * Microsoft.EntityFrameworkCore (7.0)
 * Microsoft.EntityFramework.SqlServer (7.0)
 * Microsoft.EntityFramework.Tools (7.0)
-
-Scaffold-Command for Package Manager Console
-```
-Scaffold-DbContext "Server=citizen.manukautech.info,6306;Initial Catalog=DAD_Nicole;Persist Security Info=True;User ID=DAD_Nicole;Password=DAD_1935;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -Tables IndividualTruck, TruckModel, TruckFeature, TruckRental, TruckPerson, TruckCustomer, TruckEmployee-PB, Truck_Feature_Association -OutputDir Models/DB
-```
 
 ## Installation
 * Clone repository using this link:
