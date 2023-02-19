@@ -19,7 +19,7 @@ Scaffold-DbContext "Server=citizen.manukautech.info,6306;Initial Catalog=DAD_Nic
 ## Installation
 * Clone repository using this link:
 ```
- https://github.com/nicolefabian/Truck-Rental-Management-Reports.git
+https://github.com/nicolefabian/Truck-Rental-Management-System.git
  ```
  * Run MainWindows.xaml to start the application
 
