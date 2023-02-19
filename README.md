@@ -13,7 +13,7 @@ Packages installed using Tools> Nuget Package Manager > Manage Nuget Packages fo
 
 Scaffold-Command for Package Manager Console
 ```
-Scaffold-DbContext "Server=citizen.manukautech.info,6306;Initial Catalog=DAD_Nicole;Persist Security Info=True;User ID=DAD_Nicole;Password=DAD_1935;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -Tables IndividualTruck-PB, TruckModel-PB, TruckFeature-PB, TruckRental-PB, TruckPerson-PB, TruckCustomer-PB, TruckEmployee-PB, Truck_Feature_Association-PB -OutputDir Models/DB
+Scaffold-DbContext "Server=citizen.manukautech.info,6306;Initial Catalog=DAD_Nicole;Persist Security Info=True;User ID=DAD_Nicole;Password=DAD_1935;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -Tables IndividualTruck, TruckModel, TruckFeature, TruckRental, TruckPerson, TruckCustomer, TruckEmployee-PB, Truck_Feature_Association -OutputDir Models/DB
 ```
 
 ## Installation
