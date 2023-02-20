@@ -11,13 +11,6 @@ Packages installed:
 * Microsoft.EntityFramework.SqlServer (7.0)
 * Microsoft.EntityFramework.Tools (7.0)
 
-## Installation
-* Clone repository using this link:
-```
-https://github.com/nicolefabian/Truck-Rental-Management-System.git
- ```
- * Run MainWindows.xaml to start the application
-
 ## Database Diagram
 ![image](https://user-images.githubusercontent.com/102332600/219917689-acf2d933-7e05-4dfd-b0a2-a312dd91ea1f.png)
 
